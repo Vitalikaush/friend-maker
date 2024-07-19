@@ -5,8 +5,8 @@
   "dependencies": {
     "openai": "^4.47.3",
     "selenium-standalone": "^9.5.0",
-    "selenium-webdriver": "^4.21.0",
-    "webdriverio": "^8.38.0"
+    "selenium-webdriver": "^4.22.0",
+    "webdriverio": "^7.16.4"
   },
   "scripts": {
     "start": "npx selenium-standalone start",
